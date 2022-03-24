@@ -5,7 +5,7 @@
 
 Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using Java and Spring Boot.
 
-## Challenge Conditions
+## Conditions
 
 * Take 2-4 hours to implement your project.
 * Use coding best practices.
