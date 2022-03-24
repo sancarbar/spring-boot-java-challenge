@@ -3,7 +3,7 @@
 
 ## Spring Boot and Java Backend Coding Challenge 💻
 
-Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using Java and Spring Boot.
+Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using *Java* and *Spring Boot*.
 
 ## Conditions
 
@@ -14,10 +14,26 @@ Thank you 🙏 for taking the time to implement this coding challenge to build a
 
 ## Coding Challenge 👩‍💻 👨‍💻
 
-A small cinema, which only plays movies from the [Fast & Furious](https://en.wikipedia.org/wiki/The_Fast_and_the_Furious) franchise, is looking to develop a mobile/web app for their users. Specifically, they wish to support the following functions:
+A bus company wants to start using technology and allow their users to book online tickets. Please help them build a [REST API Level 2](https://martinfowler.com/articles/richardsonMaturityModel.html#level2)(pereferible) that lets them control their trip bookings, supporting the following operations:
+* Create a new booking with the following information: name, email, origin, destination, departure date and time and duration.
+* Update an existing booking
+* Find a booking using its ID.
+* Delete an existing booking.
+
+# Expected Quality Attributes:
+* Using coding best practices.
+* SOLID principles.
+* Clear usage of Depdencies injection.
+* Correct ussage of Spring Boot annotations.
+* Connect with a persistance layer.
+
+# Desired technology stack:
+* Java 
+* Spring Boot
+* MongoDB
 
 ## Submit your solution
 
-Once you're done, send us a confirmation email to talento@ada-school.org with your repo. After you submit your code, we will contact you to discuss next steps. 
+Once you're done, send us a confirmation email with your repository link to [talento@ada-school.org](mailto:talento@ada-school.org?subject=[Solution Tech Challenge Java Spring Boot]). After you submit your code, we will contact you to discuss next steps. 
 
 Good luck! 💪
