@@ -34,6 +34,6 @@ A bus company wants to start using technology and allow their users to book onli
 
 ## Submit your solution
 
-Once you're done, send us a confirmation email with your repository link to [talento@ada-school.org](mailto:talento@ada-school.org). After you submit your code, we will contact you to discuss next steps. 
+Once you're done, please send us a confirmation email with your repository link to [talento@ada-school.org](mailto:talento@ada-school.org). After you submit your code, we will contact you to discuss next steps. 
 
 Good luck! 💪
